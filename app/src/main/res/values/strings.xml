@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TeamAvsB</string>
+    <string name="teamA">Team A</string>
+    <string name="teamB">Team B</string>
+    <string name="plus_2">+2</string>
+    <string name="plus_3">+3</string>
+    <string name="minus_2">-2</string>
+    <string name="minus_3">-3</string>
+    <string name="total">TOTAL</string>
+    <string name="teamA_score">0</string>
+    <string name="teamB_score">0</string>
+</resources>
+
